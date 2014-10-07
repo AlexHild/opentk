@@ -12296,6 +12296,13 @@ namespace OpenTK.Graphics.ES11
     /// <summary>
     /// Not used directly.
     /// </summary>
+    public enum OesCompressedEtc1Rgb8SubTexture : int
+    {
+    }
+
+    /// <summary>
+    /// Not used directly.
+    /// </summary>
     [Obsolete("Use enum with correct capitalisation instead.")]
     [CLSCompliant(false)]
     public enum OescompressedEtc1Rgb8Texture : int
